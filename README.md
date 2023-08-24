@@ -12,3 +12,7 @@
 [Binaries](./bin/)
 - [ix86](./bin/ix86.bin.list.tsv)
 - [amd64](./bin/amd64.bin.list.tsv)
+
+## conf
+[Configurations](./conf/)
+- [configuration sources](./conf/configs.list.tsv)
