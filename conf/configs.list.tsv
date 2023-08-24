@@ -1,0 +1,3 @@
+NAME	TYPE	VERSION	https	Project Website	Comment
+defaults	default OS/1337 config	current	https://github.com/OS-1337/conf.d.git	https://github.com/OS-1337/conf.d	System Defaults for OS/1337
+lists.d	reppsitory	current	https://github.com/greyhat-academy/lists.d.git	https://github.com/greyhat-academy/lists.d	Lists of useful things
