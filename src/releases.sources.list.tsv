@@ -1,4 +1,6 @@
 NAME	TYPE	COMMENT	VERSION	https	Project Website
 musl	lib	C library	1.2.4	http://musl.libc.org/releases/musl-1.2.4.tar.gz	http://musl.libc.org/
-linux	kernel	Linux Kernel	6.4.12	https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.4.12.tar.xz	https://kernel.org/
+linux	kernel	Linux Kernel	6.5	https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.5.tar.xz	https://kernel.org/
 toybox	userland	Toybox is a minimalist Userland	0.8.10	http://landley.net/toybox/downloads/toybox-0.8.10.tar.gz	http://landley.net/toybox/
+dropbear	app	SSH Client & Server	2022.83	https://matt.ucc.asn.au/dropbear/releases/dropbear-2022.83.tar.bz2	https://matt.ucc.asn.au/dropbear/dropbear.html
+musl-cross	lib	C library for Cross Compilation	latest	https://landley.net/bin/toolchains/latest/	http://landley.net/toybox/

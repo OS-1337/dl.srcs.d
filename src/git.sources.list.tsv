@@ -2,3 +2,4 @@ NAME	TYPE	COMMENT	git	https	rsync	Project Website
 musl	lib	C library	git://git.musl-libc.org/musl	https://git.musl-libc.org/git/musl		http://musl.libc.org/
 linux	kernel	Linux Kernel	https://git.kernel.org/	https://www.kernel.org/pub/	rsync://rsync.kernel.org/pub/	https://kernel.org/
 toybox	userland	Toybox is a minimalist Userland	https://github.com/landley/toybox.git	https://github.com/landley/toybox/archive/refs/heads/master.zip		http://landley.net/toybox/
+dropbear	app	SSH client & server	git@github.com:mkj/dropbear.git	https://github.com/mkj/dropbear.git		https://matt.ucc.asn.au/dropbear/dropbear.html
